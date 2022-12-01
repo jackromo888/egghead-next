@@ -62,7 +62,7 @@
     "@tippyjs/react": "^4.2.5",
     "@videojs/http-streaming": "^2.9.3",
     "@xstate/react": "^1.5.1",
-    "airtable": "^0.11.1",
+    "airtable": "^0.11.6",
     "algoliasearch": "^4.10.3",
     "aws-sdk": "^2.1089.0",
     "bitmovin-player": "^8.66.0",
