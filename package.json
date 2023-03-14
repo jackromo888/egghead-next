@@ -239,7 +239,7 @@
     "storybook-addon-themes": "^6.1.0",
     "ts-node": "^10.2.0",
     "typescript": "^4.3.5",
-    "webpack": "^5.50.0"
+    "webpack": "^5.76.0"
   },
   "lint-staged": {
     "*.{js,json,md}": [
